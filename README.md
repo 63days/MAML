@@ -7,9 +7,12 @@ The goal of meta-learning is to train a model using only a small number of train
 In this repo, I trained a neural network with 2 hidden layers to solve sinusoid problem.
 
 ## Results
-K=10  
-![image](./res/graph(k=10).png)  
+### K=10
+<img src="./res/graph(k=10).png" width=600px>
 pre loss: 15.244 | post loss: 5.391 
+
+### Loss graph
+<img src="./res/loss_final.png" width=600px>
 
 ## To train
 `python3 main.py`
