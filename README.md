@@ -21,4 +21,4 @@ pre loss: 15.244 | post loss: 5.391
 `python3 main.py --test`
 
 ## Reference
-[MAML](https://arxiv.org/pdf/1703.03400.pdf)
+[Model-Agnostic Meta-Learning](https://arxiv.org/pdf/1703.03400.pdf)
